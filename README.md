@@ -14,4 +14,4 @@
 - Link: [span.html](https://github.com/anna-dev3148/web-aula3-html/blob/main/span.html)
   
 ## resumo.html
-- Link: [resumo.html]()
+- Link: [resumo.html](https://github.com/anna-dev3148/web-aula3-html/blob/main/resumo.html)
